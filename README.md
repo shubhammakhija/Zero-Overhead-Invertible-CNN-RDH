@@ -176,7 +176,7 @@ A major breakthrough of our model is visible in its effect on the image histogra
 ```
 ├── 📁 model_train_notebook.ipynb  # Training pipeline: Dataset loading, ReversibleBlock definition, custom loss functions
 ├── 📁 model_test_notebook.ipynb   # Evaluation pipeline: Bidirectional shifting, bitstream embedding/extraction, PSNR/SSIM calculation
-├── 📄 SpringerManuscript.pdf      # Complete research paper with mathematical proofs, ablation studies, and full visual appendices
+├── 📄 Manuscript.pdf      # Complete research paper with mathematical proofs, ablation studies, and full visual appendices
 └── 📄 README.md                   # Project documentation and benchmark dashboard
 ```
 
